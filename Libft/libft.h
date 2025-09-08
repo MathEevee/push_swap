@@ -29,6 +29,7 @@ t_list		*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
 t_list		*ft_lstlast(t_list *lst);
 t_list		*ft_lstnew(void *content);
 int			ft_atoi(const char *str);
+long long	ft_atol(const char *str);
 int			ft_isalnum(int c);
 int			ft_isalpha(int c);
 int			ft_isascii(int c);
