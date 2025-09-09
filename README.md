@@ -50,7 +50,8 @@ Nous avons aussi des coups restreints.
 
 Le programme prends en paramètre des nombres et va ressortir une liste de mouvements.
 
-Exemple : <img width="275" height="238" alt="Screenshot from 2025-09-09 13-25-43" src="https://github.com/user-attachments/assets/653cefc6-f375-427e-8ca7-90b4ed5b278f" />
+Exemple : 
+<img width="275" height="238" alt="Screenshot from 2025-09-09 13-25-43" src="https://github.com/user-attachments/assets/653cefc6-f375-427e-8ca7-90b4ed5b278f" />
 
 
 
