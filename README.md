@@ -54,6 +54,26 @@ Exemple :
 
 <img width="275" height="238" alt="Screenshot from 2025-09-09 13-25-43" src="https://github.com/user-attachments/assets/653cefc6-f375-427e-8ca7-90b4ed5b278f" />
 
+C'est les actions nécessaires pour que la liste soit triée.
+
+## 🧮 Algorithme
+
+Il y a quatre étapes :
+
+1. Envoyer en triant une partie de la liste de A à B.
+   - On prend la médiane des nombres en faisant un semi tri.
+   - Quand la médiane est fini on refait une médiane sur le nombre d'élément restant.
+
+2. On garde trois éléments dans la pile A et on les tri.
+
+3. On renvoi de la pile B à la pile A tout en triant.
+   - On calcule le nombre de coup le moins couteux pour faire une insertion dichotomie.
+   - On envoi dans la pile A jusqu'à ce qu'il n'y ait plus rien dans la B.
+
+4. On monte ou descend la pile.
+   - On regarde quelle action prend le moins de coup et on **rra** ou **ra**
+
+
 
 
 ![Screencastfrom09-08-202502_52_22PMonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34a6668b-001d-422e-a4dd-4b81ed32d7c9)
